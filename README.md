@@ -1,6 +1,16 @@
-<img src="favicon.ico"> codewithpunit.github.io
+<table width="100%">
+  <tr>
+    <td width="50%">
+    <img src="html-css-js.png" width="100%">
+    </td>
+    <td width="50%">
+    <img src="favicon.ico"> codewithpunit.github.io
+    </td>
+  
+  </tr>
 
-<img src="html-css-js.png" width="60%">
+</table>
+
 
 > https://favicon.io/
 
