@@ -4,7 +4,7 @@
     <img src="https://www.codewithpunit.com/image/codewithpunit.jpeg" width="100%">
     </td>
     <td width="50%">
-    <img src="favicon.ico"> codewithpunit.github.io
+      <h1>Start Learning With Github</h1>
     </td>
   
   </tr>
