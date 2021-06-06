@@ -1,9 +1,9 @@
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="30%">
     <img src="https://www.codewithpunit.com/image/codewithpunit.jpeg" width="100%">
     </td>
-    <td width="50%">
+    <td width="70%">
       <h1>Start Learning With Github</h1>
     </td>
   
