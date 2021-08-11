@@ -29,6 +29,7 @@ footer h4{padding: 1%; color: white; text-align: center;}
     text-decoration: none;
     font-size: 20px;
 }
+.banner ul li a i{ color:white;}
 @media( max-width:700px)
 {
     header{ height: 60px; text-align: center;}
