@@ -15,11 +15,10 @@ footer h4{padding: 1%; color: white; text-align: center;}
 .banner-right{
     width: 20%;
     min-height: 600px;
-   
     float: right;
 }
 .banner-right ul li{
-    padding: 1% 5%; 
+    padding: 2% 5%; 
     background-color: #41b4a4; 
     margin-bottom: 10px;
     border: 1px solid black;
