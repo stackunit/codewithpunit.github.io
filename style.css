@@ -6,9 +6,9 @@ footer{ width: 100%; background-color: royalblue; position: fixed; bottom: 0px;}
 footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
     width: 90%; 
-    min-height: 550px; 
+    min-height: 450px; 
     background:url(profile_as_a\ developer.png) no-repeat; 
-    background-size: 80% 550px;
+    background-size: 80% 450px;
     margin: auto;
     margin-top: 10px;
 }
