@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 *{ margin: 0; padding: 0;}
 body{ background-color: white; font-family: 'Source Sans Pro', sans-serif;}
-header{ height: 80px; background-color: royalblue;}
+header{ height: 80px; background-color: #0D6EFD;}
 header a{ line-height: 80px; font-size: 2em; text-decoration: none; color: white; margin-left: 5%;}
-footer{ width: 100%; background-color: royalblue; position: fixed; bottom: 0px;}
+footer{ width: 100%; background-color: #0D6EFD; position: fixed; bottom: 0px;}
 footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
     width: 90%; 
@@ -20,7 +20,7 @@ footer h4{padding: 1%; color: white; text-align: center;}
 }
 .banner-right ul li{
     padding: 2% 5%; 
-    background-color: royalblue; 
+    background-color: #0D6EFD; 
     margin-bottom: 10px;
     border: 1px solid black;
     list-style: none;
