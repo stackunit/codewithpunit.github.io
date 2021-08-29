@@ -1,5 +1,5 @@
 *{ margin: 0; padding: 0;}
-body{ background-color: whitesmoke;}
+body{ background-color: white;}
 header{ height: 80px; background-color: royalblue;}
 header a{ line-height: 80px; font-size: 2em; text-decoration: none; color: white; margin-left: 5%;}
 footer{ width: 100%; background-color: royalblue; position: fixed; bottom: 0px;}
