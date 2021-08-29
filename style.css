@@ -1,8 +1,8 @@
 *{ margin: 0; padding: 0;}
 body{ background-color: whitesmoke;}
-header{ height: 80px; background-color: #41b4a4;}
+header{ height: 80px; background-color: royalblue;}
 header a{ line-height: 80px; font-size: 40px; text-decoration: none; color: white; margin-left: 5%;}
-footer{ width: 100%; background-color: #41b4a4; position: fixed; bottom: 0px;}
+footer{ width: 100%; background-color: royalblue; position: fixed; bottom: 0px;}
 footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
     width: 90%; 
