@@ -6,15 +6,15 @@ footer{ width: 100%; background-color: royalblue; position: fixed; bottom: 0px;}
 footer h4{padding: 1%; color: white; text-align: center;}
 .banner{
     width: 90%; 
-    min-height: 450px; 
+    min-height: 80vh; 
     background:url(profile_as_a\ developer.png) no-repeat; 
-    background-size: 70% 450px;
+    background-size: 75% 80vh;
     margin: auto;
     margin-top: 10px;
 }
 .banner-right{
     width: 20%;
-    min-height: 550px;
+    min-height: 80vh;
     float: right;
 }
 .banner-right ul li{
