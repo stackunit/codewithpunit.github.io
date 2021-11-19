@@ -18,4 +18,6 @@
 
 >https://way2tutorial.com/
 
+>https://developers.google.com/search/docs/advanced/guidelines/url-structure
+
 
